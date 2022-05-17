@@ -1,0 +1,54 @@
+error:05-15-2022 12:16:43:ho no!
+error:05-15-2022 12:16:48:Baby is not a constructor
+error:05-15-2022 12:17:16:Baby is not a constructor
+error:05-15-2022 12:17:17:Baby is not a constructor
+error:05-15-2022 12:18:32:Baby is not a constructor
+error:05-15-2022 12:19:52:Baby is not a constructor
+error:05-15-2022 12:21:13:ho no!
+error:05-15-2022 12:21:53:Baby is not a constructor
+error:05-15-2022 12:27:10:ho no!
+error:05-15-2022 12:27:51:ho no!
+error:05-15-2022 12:30:36:ho no!
+error:05-15-2022 12:32:03:ho no!
+error:05-15-2022 12:32:32:ho no!
+error:05-15-2022 12:35:19:ho no!
+error:05-15-2022 12:35:40:Baby is not a constructor
+error:05-15-2022 12:37:17:ho no!
+error:05-15-2022 12:39:03:ho no!
+error:05-15-2022 12:41:36:ho no!
+error:05-15-2022 13:38:30:ho no!
+error:05-15-2022 13:40:46:E11000 duplicate key error collection: 212328231miriam&rivki.babiesschemas index: Email_1 dup key: { : "sarilevi@gmail.com" }
+error:05-15-2022 13:46:57:ho no!
+error:05-15-2022 14:09:43:ho no!
+error:05-15-2022 14:31:37:ho no!
+error:05-16-2022 11:47:28:ho no!
+error:05-16-2022 12:22:53:ho no!
+error:05-16-2022 12:27:37:ho no!
+error:05-16-2022 13:45:55:ho no!
+error:05-16-2022 13:46:47:ho no!
+error:05-16-2022 13:48:30:ho no!
+error:05-16-2022 13:49:02:ho no!
+error:05-16-2022 13:52:50:ho no!
+error:05-16-2022 13:53:12:ho no!
+error:05-16-2022 14:06:47:ho no!
+error:05-16-2022 14:07:31:ho no!
+error:05-16-2022 14:07:55:ho no!
+error:05-16-2022 14:07:55:BabiesSchema validation failed: Group: Cast to ObjectId failed for value "אפרוחים א" (type string) at path "Group"
+error:05-16-2022 14:08:24:BabiesSchema validation failed: Group: Cast to ObjectId failed for value "א אפרוחים" (type string) at path "Group"
+error:05-16-2022 14:08:46:BabiesSchema validation failed: Group: Cast to ObjectId failed for value "אפרוחים א" (type string) at path "Group"
+error:05-16-2022 14:10:30:BabiesSchema validation failed: Group: Cast to ObjectId failed for value "aa" (type string) at path "Group"
+error:05-16-2022 14:19:15:ho no!
+error:05-16-2022 14:21:04:ho no!
+error:05-16-2022 14:22:25:ho no!
+error:05-16-2022 14:23:06:ho no!
+error:05-16-2022 14:23:57:ho no!
+error:05-16-2022 14:26:58:ho no!
+error:05-16-2022 14:27:37:ho no!
+error:05-16-2022 14:37:33:ho no!
+error:05-16-2022 14:38:18:ho no!
+error:05-16-2022 14:39:18:ho no!
+error:05-16-2022 14:40:29:ho no!
+error:05-16-2022 14:42:51:ho no!
+error:05-16-2022 14:47:20:ho no!
+error:05-16-2022 14:49:56:ho no!
+error:05-16-2022 16:19:29:ho no!

@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.3",
+    "isemail": "^3.2.0",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.8",
+    "validator": "^13.7.0",
+    "winston": "^3.7.2",
+    "winston-mongodb": "^5.0.7"
+  }
+}
