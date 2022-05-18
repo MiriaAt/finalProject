@@ -15,7 +15,7 @@ const logConfiguration={
         }),
         new transports.MongoDB({
              level:'error',
-             db:'mongodb://srv1:27017/212328231miriam&rivki',
+             db:'mongodb://srv1:27017/212328231finalProject',
              options:{
                 useUnifiedTopology:true
             },
