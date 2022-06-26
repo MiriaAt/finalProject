@@ -56,3 +56,87 @@ error:05-17-2022 13:13:24:ho no!
 error:05-18-2022 10:59:00:ho no!
 error:05-18-2022 10:59:42:ho no!
 error:05-18-2022 11:00:36:ho no!
+error:05-18-2022 12:50:00:ho no!
+error:05-18-2022 14:18:15:ho no!
+error:05-18-2022 14:47:16:ho no!
+error:05-22-2022 13:46:05:ho no!
+error:05-22-2022 15:01:01:E11000 duplicate key error collection: 212328231finalProject.babiesschemas index: Email_1 dup key: { : "sarilevi2@gmail.com" }
+error:05-23-2022 10:31:34:ho no!
+error:05-23-2022 10:56:05:ho no!
+error:05-23-2022 11:22:38:ho no!
+error:05-23-2022 11:27:37:ho no!
+error:05-23-2022 11:33:11:ho no!
+error:05-23-2022 11:33:27:ho no!
+error:05-23-2022 11:33:55:ho no!
+error:05-23-2022 11:38:51:ho no!
+error:05-23-2022 11:39:31:ho no!
+error:05-23-2022 11:46:16:ho no!
+error:05-23-2022 11:46:25:Cannot populate path `babyGroup` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:05-23-2022 11:46:33:Cannot populate path `babyGroup` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:05-23-2022 11:47:39:ho no!
+error:05-23-2022 11:49:15:ho no!
+error:05-23-2022 11:51:35:ho no!
+error:05-23-2022 11:56:24:ho no!
+error:05-23-2022 11:56:24:If you are populating a virtual, you must set the localField and foreignField options
+error:05-23-2022 11:56:56:ho no!
+error:05-23-2022 12:01:34:ho no!
+error:05-23-2022 12:01:41:ho no!
+error:05-23-2022 14:40:04:ho no!
+error:05-23-2022 14:42:57:ho no!
+error:05-23-2022 14:43:31:ho no!
+error:05-23-2022 14:45:21:ho no!
+error:05-23-2022 14:49:01:ho no!
+error:05-23-2022 14:51:48:ho no!
+error:05-23-2022 14:52:29:ho no!
+error:05-23-2022 14:56:55:ho no!
+error:05-23-2022 14:57:24:ho no!
+error:05-23-2022 14:57:54:ho no!
+error:05-23-2022 14:58:18:ho no!
+error:05-23-2022 14:59:08:ho no!
+error:05-23-2022 14:59:34:ho no!
+error:05-23-2022 15:00:07:ho no!
+error:05-23-2022 15:01:36:ho no!
+error:05-23-2022 15:01:37:Cannot populate path `descrepition` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:05-23-2022 15:01:56:ho no!
+error:05-23-2022 15:05:12:ho no!
+error:05-23-2022 15:08:25:ho no!
+error:05-23-2022 15:09:29:ho no!
+error:05-25-2022 12:27:50:ho no!
+error:05-25-2022 12:28:12:ho no!
+error:05-26-2022 14:35:48:ho no!
+error:05-26-2022 14:51:10:ho no!
+error:05-30-2022 14:48:42:ho no!
+error:05-30-2022 16:43:50:ho no!
+error:06-01-2022 11:28:58:ho no!
+error:06-01-2022 11:32:30:ho no!
+error:06-01-2022 11:44:09:ho no!
+error:06-01-2022 11:49:48:ho no!
+error:06-01-2022 11:50:19:ho no!
+error:06-01-2022 11:51:35:ho no!
+error:06-01-2022 11:52:07:ho no!
+error:06-01-2022 11:52:19:ho no!
+error:06-01-2022 11:52:46:ho no!
+error:06-01-2022 11:54:09:ho no!
+error:06-01-2022 12:08:08:ho no!
+error:06-01-2022 12:08:33:ho no!
+error:06-01-2022 12:08:54:ho no!
+error:06-01-2022 12:09:33:Cannot access 'Dose' before initialization
+error:06-01-2022 12:10:16:ho no!
+error:06-01-2022 12:11:35:ho no!
+error:06-01-2022 12:12:19:dose is not defined
+error:06-01-2022 12:12:42:ho no!
+error:06-01-2022 12:19:28:mealSchema validation failed: age: `6-12` is not a valid enum value for path `age`.
+error:06-01-2022 12:20:06:ho no!
+error:06-01-2022 12:21:09:mealSchema validation failed: doses.0: Cast to [ObjectId] failed for value "[ 'גבינה', 'ביצה' ]" (type string) at path "doses.0"
+error:06-01-2022 12:22:28:ho no!
+error:06-01-2022 12:22:56:ho no!
+error:06-01-2022 12:22:58:Cannot populate path `dose` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:06-01-2022 12:24:40:ho no!
+error:06-01-2022 12:24:41:Cannot populate path `Dose` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:06-01-2022 12:28:23:Cannot populate path `Dose` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:06-01-2022 12:28:24:Cannot populate path `Dose` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:06-01-2022 12:29:02:ho no!
+error:06-01-2022 12:29:41:Cast to ObjectId failed for value "62972f6e54c05f0f565ce100\n" (type string) at path "_id" for model "doseSchema"
+error:06-01-2022 12:32:47:ho no!
+error:06-14-2022 10:38:25:ho no!
+error:06-26-2022 10:35:11:ho no!

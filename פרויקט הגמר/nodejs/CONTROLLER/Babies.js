@@ -17,7 +17,9 @@ async function addBaby(req,res,next){
 }
 async function get(req,res,next){
     try{
-    const baby=await Baby.find()
+    const baby=await Baby.find().populate('Group').populate('Address');
+    console.log(baby)
+
     res.send(baby)
 }
 catch(error){
@@ -25,6 +27,7 @@ catch(error){
     next(error)
 }}
 
+// .populate('Group');
 // async function getById(req,res,next){
 //     try{
 //     const user=await User.findById(ObjectId(req.params.id));

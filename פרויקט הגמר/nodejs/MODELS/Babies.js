@@ -48,7 +48,7 @@ const BabiesSchema=new mongoose.Schema({
         validate:[isEmail,'כתובת מייל לא תקינה'],
         unique:true,
     },
-    Address: [addressSchema] ,
+    Address: addressSchema ,
     Age:{ 
         type:Number,
     },
@@ -59,7 +59,12 @@ const BabiesSchema=new mongoose.Schema({
    
     
 },{timestamps:true})
-
+// BabiesSchema.virtual('babyGroup',{
+//     ref: 'newgroups',
+//     localField:'Group',
+//     foreignField:'_id'
+//     },{virtuals:true});
+//     BabiesSchema.set('toJSON',{virtuals:true});
 
 
 module.exports=mongoose.model('BabiesSchema',BabiesSchema);
